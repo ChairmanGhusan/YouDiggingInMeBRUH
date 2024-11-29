@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         chess.com custom sounds
 // @version      1.0
-// @namespace   zesi
-// @description replaces chess.com sounds with custom ones
+// @author       zesi
+// @description  replaces chess.com sounds with custom ones
 // @match        https://www.chess.com/*
 // @downloadURL  https://github.com/zesizesizesi/chess.com-custom-sounds/raw/main/chess-custom-sounds.user.js
 // @updateURL    https://github.com/zesizesizesi/chess.com-custom-sounds/raw/main/chess-custom-sounds.user.js
