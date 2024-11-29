@@ -3,8 +3,9 @@ Replaces the default chess.com sounds with custom sounds
 
 ## How to Install
 1. Install a browser addon for handling usercripts, for example [Tampermonkey](https://www.tampermonkey.net/)
-2. Download the 'chess-custom-sounds.js' and add it as a new script in the userscript addon
+2. Open [this link](https://raw.githubusercontent.com/zesizesizesi/chess.com-custom-sounds/main/chess-custom-sounds.js) to install the script
 
+If the installation link doesn't work you can add 'chess-custom-sounds.js' userscript manually in the userscript addon.
 ## Changing Sounds
 
 ### Create MP3 files with the following names:
