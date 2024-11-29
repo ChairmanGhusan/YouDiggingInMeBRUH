@@ -10,7 +10,7 @@
     'use strict';
 
     // URL for custom sounds
-    const BASE_URL = 'https://zesizesizesi.github.io/chess-custom-sounds/sounds';
+    const BASE_URL = 'https://zesizesizesi.github.io/chess.com-custom-sounds/sounds';
 
     // maps the chess.com sounds to custom sounds
     const SOUND_MAP = {
