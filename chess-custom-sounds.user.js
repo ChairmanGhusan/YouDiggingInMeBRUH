@@ -34,6 +34,7 @@
     function getReplacementUrl(originalUrl) {
         const matchedSound = Object.entries(SOUND_MAP).find(([original]) => originalUrl.includes(original));
         if (matchedSound) {
+            const replacement = typeof matchedSound[1] === 'function' ? matchedSound[1]() : matchedSound[1];
             return `${BASE_URL}/${matchedSound[1]}`;
         }
         return originalUrl;
