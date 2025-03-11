@@ -19,7 +19,7 @@
         'move-self.webm': 'move-self.mp3',
         'move-check.webm': 'move-check.mp3',
         'move-opponent.webm': 'move-opponent.mp3',
-        'capture.webm': () => `capture${Math.floor(Math.random() * 4) + 1}.mp3`, // Random capture sound,
+        'capture.webm': () => `capture${Math.floor(Math.random() * 3) + 1}.mp3`,
         'castle.webm': 'castle.mp3',
         'promote.webm': 'promote.mp3',
         'notify.webm': 'notify.mp3',
